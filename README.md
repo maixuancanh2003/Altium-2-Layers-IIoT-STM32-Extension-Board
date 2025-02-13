@@ -26,7 +26,8 @@ The **IIOT STM32 Extension Board** works alongside the ESP32 in IIOT application
 |-------------|-----------------------------------|
 | **Top View**    | ![Top View](Image/TOP.png)      |
 | **Bottom View** | ![Bottom View](Image/FRONTLEFT.png) |
-
+| **Layout Top**    | ![Layout Top](Image/Layout_TOP.png)      |
+| **Layout Bottom** | ![Layout Bottom](Image/Layout_Bottom.png) |
 ## 🚀 Getting Started
 To begin using the **IIOT STM32 Extension Board**:
 1. Connect the board to the **IIOT ESP32** using the provided interface connectors.
